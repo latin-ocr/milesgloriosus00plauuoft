@@ -1,0 +1,12 @@
+sigla A = Codex Ambrosianus rescriptas
+
+B = Vetus Camerarii
+C = Decurtatus
+J) = Ursinianus
+F = Lipsiensis
+Z = ed. princeps
+ω = libri omnes praeter A
+φ = reliqui
+a, b, c = m, 1, 2, 3.
+R = editoris nomen.
+
